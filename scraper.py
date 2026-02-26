@@ -76,6 +76,30 @@ def save_to_csv(df, filename="ziprecruiter_jobs.csv"):
     except Exception as e:
         logging.error(f"Error saving to CSV: {e}")
 
+def save_to_notes(df, filename="job_notes.txt"):
+    """
+    Saves the job results to a human-readable notes format.
+    """
+    if df.empty:
+        return
+        
+    try:
+        with open(filename, "w") as f:
+            f.write("# ZipRecruiter Job Listings - Scrape Results\n")
+            f.write(f"# Total Jobs: {len(df)}\n")
+            f.write("-" * 40 + "\n\n")
+            
+            for _, row in df.iterrows():
+                f.write(f"TITLE: {row.get('title', 'N/A')}\n")
+                f.write(f"COMPANY: {row.get('company', 'N/A')}\n")
+                f.write(f"LOCATION: {row.get('location', 'N/A')}\n")
+                f.write(f"MATCH SCORE: {row.get('match_score', 0)}\n")
+                f.write(f"URL: {row.get('job_url', 'N/A')}\n")
+                f.write("-" * 20 + "\n\n")
+        logging.info(f"Successfully saved job notes to {filename}")
+    except Exception as e:
+        logging.error(f"Error saving to notes: {e}")
+
 if __name__ == "__main__":
     # Test run
     results = search_ziprecruiter_jobs(results_wanted=5)

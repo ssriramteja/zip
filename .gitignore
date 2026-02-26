@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 ziprecruiter_jobs.csv
+job_notes.txt
 zip_manual_scrape.csv
 *.pkl

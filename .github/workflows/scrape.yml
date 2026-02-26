@@ -1,6 +1,8 @@
 name: ZipRecruiter Scraper
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     - cron: '0 0 * * *' # Run daily at midnight
   workflow_dispatch: # Allow manual trigger
@@ -32,6 +34,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ziprecruiter_jobs.csv || echo "No changes to commit"
+          git add ziprecruiter_jobs.csv job_notes.txt || echo "No changes to commit"
           git commit -m "chore: update job listings [skip ci]" || echo "No changes to commit"
           git push
