@@ -11,7 +11,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from playwright.sync_api import sync_playwright
-from playwright_stealth import stealth_sync
+from playwright_stealth import stealth
 from config import SEARCH_TITLES, RESUME_KEYWORDS
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -142,7 +142,7 @@ def scrape_ziprecruiter(search_term, location="United States", days=1):
         page = context.new_page()
 
         # Apply stealth
-        stealth_sync(page)
+        stealth(page)
 
         for attempt in range(max_retries):
             try:
