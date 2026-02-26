@@ -3,3 +3,4 @@ requests
 beautifulsoup4
 playwright
 scikit-learn
+playwright-stealth

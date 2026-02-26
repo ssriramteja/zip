@@ -11,7 +11,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from playwright.sync_api import sync_playwright
-
+from playwright_stealth import stealth_sync
 from config import SEARCH_TITLES, RESUME_KEYWORDS
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -24,7 +24,7 @@ COOKIES = [
 ]
 
 BASE_URL = "https://www.ziprecruiter.com/jobs-search"
-UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 # Build resume profile text for TF-IDF comparison
 RESUME_PROFILE = " ".join(RESUME_KEYWORDS)
@@ -114,34 +114,65 @@ def extract_jobs_from_page(page):
 
 
 def scrape_ziprecruiter(search_term, location="United States", days=1):
-    """Scrape ZipRecruiter for a single search term using Playwright."""
+    """Scrape ZipRecruiter for a single search term using Playwright with Stealth."""
     url = f"{BASE_URL}?search={search_term}&location={location}&days={days}"
     jobs = []
+    max_retries = 2
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(user_agent=UA)
+        # Launch with specific args to avoid detection
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                '--disable-blink-features=AutomationControlled',
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
+                '--disable-infobars',
+                '--window-position=0,0',
+                '--ignore-certifcate-errors',
+                '--ignore-certifcate-errors-spki-list',
+            ]
+        )
+        context = browser.new_context(
+            user_agent=UA,
+            viewport={'width': 1920, 'height': 1080},
+            java_script_enabled=True
+        )
         context.add_cookies(COOKIES)
         page = context.new_page()
 
-        try:
-            logging.info(f"[Thread] Searching: '{search_term}'...")
-            page.goto(url, timeout=30000)
-            page.wait_for_timeout(6000)
+        # Apply stealth
+        stealth_sync(page)
 
-            page_title = page.title()
-            logging.info(f"[Thread] Page: {page_title}")
+        for attempt in range(max_retries):
+            try:
+                logging.info(f"[Thread] Searching: '{search_term}' (Attempt {attempt+1})...")
+                page.goto(url, timeout=60000, wait_until="networkidle")
+                page.wait_for_timeout(5000)
 
-            jobs = extract_jobs_from_page(page)
-            for j in jobs:
-                j["search_title"] = search_term
+                page_title = page.title()
+                logging.info(f"[Thread] Page: {page_title}")
 
-            logging.info(f"[Thread] Done: {len(jobs)} jobs for '{search_term}'")
+                if "Just a moment" in page_title:
+                    logging.warning(f"Cloudflare detected on attempt {attempt+1}. Retrying...")
+                    page.wait_for_timeout(10000)
+                    continue
 
-        except Exception as e:
-            logging.error(f"Error scraping '{search_term}': {e}")
-        finally:
-            browser.close()
+                jobs = extract_jobs_from_page(page)
+                for j in jobs:
+                    j["search_title"] = search_term
+
+                logging.info(f"[Thread] Done: {len(jobs)} jobs for '{search_term}'")
+                break # Success, exit retry loop
+
+            except Exception as e:
+                logging.error(f"Error scraping '{search_term}' on attempt {attempt+1}: {e}")
+                if attempt == max_retries - 1:
+                    break
+            finally:
+                pass
+
+        browser.close()
 
     return jobs
 
