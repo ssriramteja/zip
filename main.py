@@ -1,36 +1,29 @@
 import argparse
-from scraper import search_jobs, save_to_csv, save_to_notes
+from scraper import search_all_titles, save_to_csv, save_to_notes
 
 def main():
-    parser = argparse.ArgumentParser(description="Job Scraper (Indeed + LinkedIn + ZipRecruiter)")
-    parser.add_argument("--location", type=str, default="USA", help="Location for the job search")
-    parser.add_argument("--limit", type=int, default=15, help="Number of results per title")
-    parser.add_argument("--hours", type=int, default=24, help="Only jobs posted in the last N hours")
-    parser.add_argument("--output", type=str, default="jobs.csv", help="Output CSV filename")
-    parser.add_argument("--notes", type=str, default="job_notes.txt", help="Output notes filename")
+    parser = argparse.ArgumentParser(description="ZipRecruiter Job Scraper")
+    parser.add_argument("--location", type=str, default="United States", help="Location")
+    parser.add_argument("--days", type=int, default=1, help="Jobs posted within last N days")
+    parser.add_argument("--output", type=str, default="jobs.csv", help="Output CSV")
+    parser.add_argument("--notes", type=str, default="job_notes.txt", help="Output notes")
 
     args = parser.parse_args()
 
-    print(f"--- Job Scraper ---")
-    print(f"Sources: Indeed, LinkedIn, ZipRecruiter")
+    print("--- ZipRecruiter Scraper (Playwright) ---")
     print(f"Location: {args.location}")
-    print(f"Limit: {args.limit} per title")
-    print(f"Freshness: {args.hours} hours")
-    print(f"-------------------")
+    print(f"Freshness: {args.days} day(s)")
+    print("-" * 40)
 
-    jobs_df = search_jobs(
-        location=args.location,
-        results_wanted=args.limit,
-        hours_old=args.hours
-    )
+    df = search_all_titles(location=args.location, days=args.days)
 
-    save_to_csv(jobs_df, args.output)
-    save_to_notes(jobs_df, args.notes)
+    save_to_csv(df, args.output)
+    save_to_notes(df, args.notes)
 
-    if not jobs_df.empty:
-        print(f"Done! {len(jobs_df)} jobs saved to {args.output} and {args.notes}")
+    if not df.empty:
+        print(f"\nDone! {len(df)} jobs saved to {args.output} and {args.notes}")
     else:
-        print("No jobs found. Empty files created for tracking.")
+        print("\nNo jobs found. Empty files created.")
 
 if __name__ == "__main__":
     main()
