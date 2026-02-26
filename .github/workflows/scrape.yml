@@ -28,12 +28,12 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper
-        run: python main.py --limit 10 --hours 24 --location "USA"
+        run: python main.py --limit 15 --hours 24 --location "USA"
 
       - name: Commit results
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add ziprecruiter_jobs.csv job_notes.txt || echo "No changes to commit"
-          git commit -m "chore: update job listings [skip ci]" || echo "No changes to commit"
+          git add -f jobs.csv job_notes.txt || echo "No output files"
+          git commit -m "chore: update job listings $(date +%F)" || echo "No changes to commit"
           git push
