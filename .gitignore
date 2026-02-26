@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+ziprecruiter_jobs.csv
+zip_manual_scrape.csv
+*.pkl
