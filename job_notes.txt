@@ -1,0 +1,2562 @@
+# Job Listings - Scrape Results
+# Sources: Indeed, LinkedIn, ZipRecruiter
+# Last Run: 2026-02-26 18:25:52.394079
+# Total Jobs: 284
+==================================================
+
+--- Job #1 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 23
+  URL:         https://www.indeed.com/viewjob?jk=855afa7fb01c126c
+  Posted:      2026-02-26
+
+--- Job #2 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 15
+  URL:         https://www.indeed.com/viewjob?jk=63484a380a62898b
+  Posted:      2026-02-26
+
+--- Job #3 ---
+  Title:       Sr. Solution Engineer
+  Company:     Associated Wholesale Grocers
+  Location:    Kansas City, KS, US
+  Source:      indeed
+  Match Score: 15
+  URL:         https://www.indeed.com/viewjob?jk=3d4780af39e79827
+  Posted:      2026-02-26
+
+--- Job #4 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 15
+  URL:         https://www.indeed.com/viewjob?jk=fc1052fb6437c3a3
+  Posted:      2026-02-26
+
+--- Job #5 ---
+  Title:       Data Science Manager, PXT Central Science
+  Company:     Amazon.com
+  Location:    Arlington, VA, US
+  Source:      indeed
+  Match Score: 14
+  URL:         https://www.indeed.com/viewjob?jk=f2dd03443490d036
+  Posted:      2025-10-03
+
+--- Job #6 ---
+  Title:       Data Science Manager, PXT Central Science
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 14
+  URL:         https://www.indeed.com/viewjob?jk=12e19d390795135f
+  Posted:      2025-10-03
+
+--- Job #7 ---
+  Title:       Data Science Manager, PXT Central Science
+  Company:     Amazon.com
+  Location:    Bellevue, WA, US
+  Source:      indeed
+  Match Score: 14
+  URL:         https://www.indeed.com/viewjob?jk=167ba88f29c31508
+  Posted:      2025-10-03
+
+--- Job #8 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 13
+  URL:         https://www.indeed.com/viewjob?jk=0af8e0a8fd7fda43
+  Posted:      2026-02-26
+
+--- Job #9 ---
+  Title:       Data Scientist (Sales Operations)
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 13
+  URL:         https://www.indeed.com/viewjob?jk=506011de1638db28
+  Posted:      2026-02-24
+
+--- Job #10 ---
+  Title:       AI Development Engineer - DevX Platform - 13+ years exp. (Full Time role)
+  Company:     Tms Llc
+  Location:    Edison, NJ, US
+  Source:      indeed
+  Match Score: 11
+  URL:         https://www.indeed.com/viewjob?jk=c3527123858c806a
+  Posted:      2026-02-26
+
+--- Job #11 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 10
+  URL:         https://www.indeed.com/viewjob?jk=a89713d6b6038acb
+  Posted:      2026-02-26
+
+--- Job #12 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 9
+  URL:         https://www.indeed.com/viewjob?jk=103106feced3f202
+  Posted:      2026-02-26
+
+--- Job #13 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 8
+  URL:         https://www.indeed.com/viewjob?jk=46771ca9d090526d
+  Posted:      2026-02-26
+
+--- Job #14 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 8
+  URL:         https://www.indeed.com/viewjob?jk=a97c2c21d7d79ee8
+  Posted:      2026-02-26
+
+--- Job #15 ---
+  Title:       Senior, Data Engineer
+  Company:     Walmart
+  Location:    Bentonville, AR, US
+  Source:      indeed
+  Match Score: 7
+  URL:         https://www.indeed.com/viewjob?jk=d03ef4b4884ce971
+  Posted:      2026-02-26
+
+--- Job #16 ---
+  Title:       Machine Learning Engineer
+  Company:     Adobe
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 7
+  URL:         https://www.indeed.com/viewjob?jk=60720148c44c7f1d
+  Posted:      2026-02-26
+
+--- Job #17 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 7
+  URL:         https://www.indeed.com/viewjob?jk=7574cb3deaaab11f
+  Posted:      2026-02-26
+
+--- Job #18 ---
+  Title:       Software Engineer II (DAS)
+  Company:     Quevera
+  Location:    Hanover, MD, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=a1f4e0b35c039454
+  Posted:      2026-02-26
+
+--- Job #19 ---
+  Title:       Data Platform Lead
+  Company:     kontakt.io
+  Location:    US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=8308a063d4fb1d95
+  Posted:      2026-02-26
+
+--- Job #20 ---
+  Title:       Principal AI Performance Engineer
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=2a26dfe740a57507
+  Posted:      2026-02-11
+
+--- Job #21 ---
+  Title:       Sr. Fellow Machine Learning Engineer
+  Company:     AMD
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=26811a4183d38fe6
+  Posted:      2026-02-16
+
+--- Job #22 ---
+  Title:       Applied Scientist, LLM Code Agents, Kiro Science
+  Company:     Amazon.com
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=26050cd4664cc412
+  Posted:      2026-01-14
+
+--- Job #23 ---
+  Title:       Applied Scientist, LLM Code Agents, Kiro Science
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=8a60d90767baecb6
+  Posted:      2026-01-14
+
+--- Job #24 ---
+  Title:       Principal Applied Scientist, Sponsored Products and Brands
+  Company:     Amazon.com
+  Location:    New York, NY, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=64841c982ce2bf3a
+  Posted:      2025-11-19
+
+--- Job #25 ---
+  Title:       Software Engineer II (DAS)
+  Company:     Quevera
+  Location:    Laurel, MD, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=c68b0fc1c6a09386
+  Posted:      2026-02-26
+
+--- Job #26 ---
+  Title:       Principal Applied Scientist, Sponsored Products and Brands
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=3bc3e72f1c63c34c
+  Posted:      2025-11-19
+
+--- Job #27 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=b5ded9e52f396b69
+  Posted:      2026-02-26
+
+--- Job #28 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=94b862ba2d86ae35
+  Posted:      2026-02-26
+
+--- Job #29 ---
+  Title:       Software Development Engineer
+  Company:     AMD
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 6
+  URL:         https://www.indeed.com/viewjob?jk=89481a4c6f53c3cb
+  Posted:      2026-02-19
+
+--- Job #30 ---
+  Title:       2026 PhD Artificial Intelligence Models Software Engineer Co-Op/Intern
+  Company:     AMD
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=57d4929df4fd3403
+  Posted:      2026-01-08
+
+--- Job #31 ---
+  Title:       Prompt Engineer
+  Company:     University of Texas at Arlington
+  Location:    Arlington, TX, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=5bfb10e4684c523c
+  Posted:      2026-02-26
+
+--- Job #32 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=2902223e0715add2
+  Posted:      2026-02-26
+
+--- Job #33 ---
+  Title:       AI Cluster Validation Engineer
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=7d794b12857647ea
+  Posted:      2025-12-22
+
+--- Job #34 ---
+  Title:       AI Cluster Validation Engineer
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=84df0f8a65249cb5
+  Posted:      2025-12-22
+
+--- Job #35 ---
+  Title:       AI Cluster Validation Engineer
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=08d259faec8b7ca7
+  Posted:      2026-01-19
+
+--- Job #36 ---
+  Title:       Sr. Applied Scientist, Amazon Advertising
+  Company:     Amazon.com
+  Location:    Palo Alto, CA, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=831a064457a8b94f
+  Posted:      2025-07-14
+
+--- Job #37 ---
+  Title:       Software Development Engineer in Test
+  Company:     Apple
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=ffffbe6eb3b8b738
+  Posted:      2026-02-26
+
+--- Job #38 ---
+  Title:       Principal ML/AI Solutions Engineer
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=68afc4d8cdfcb2c2
+  Posted:      2026-01-30
+
+--- Job #39 ---
+  Title:       AI/ML Validation Engineer
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=83e261aded16d9b6
+  Posted:      2026-02-16
+
+--- Job #40 ---
+  Title:       Senior Design Technologist, Prime Video
+  Company:     Amazon.com
+  Location:    Culver City, CA, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=fb8ac4a81a6546e3
+  Posted:      2025-11-24
+
+--- Job #41 ---
+  Title:       Fellow, EPYC AI Product Architecture
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 5
+  URL:         https://www.indeed.com/viewjob?jk=8f5c5f8a5747df53
+  Posted:      2026-02-09
+
+--- Job #42 ---
+  Title:       Sr. Staff AI/ML Development Engineer
+  Company:     AMD
+  Location:    Bellevue, WA, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=83a958a83103eef1
+  Posted:      2026-01-13
+
+--- Job #43 ---
+  Title:       Cloud Infrastructure/DevOps Engineer
+  Company:     Tessera Labs
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=c8120328da4fac25
+  Posted:      2026-02-26
+
+--- Job #44 ---
+  Title:       AI Development & Experimentation Intern
+  Company:     Crown Castle
+  Location:    Canonsburg, PA, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=17e8024ea3cf7b95
+  Posted:      2026-02-26
+
+--- Job #45 ---
+  Title:       Design Technologist, Prime Video
+  Company:     Amazon.com
+  Location:    San Francisco, CA, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=57dcc71751e3b8aa
+  Posted:      2025-11-24
+
+--- Job #46 ---
+  Title:       Machine Learning Research Engineer, Siri Comprehension & Planning, Siri Core Modeling
+  Company:     Apple
+  Location:    Cupertino, CA, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=7c8cc35aa64f7018
+  Posted:      2026-02-26
+
+--- Job #47 ---
+  Title:       Solution Architect
+  Company:     ProviderTrust
+  Location:    Nashville, TN, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=345ef86c25d2d5c4
+  Posted:      2026-02-26
+
+--- Job #48 ---
+  Title:       Applied Scientist, Safety ML
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=b7064e8a3798a546
+  Posted:      2026-01-16
+
+--- Job #49 ---
+  Title:       Applied Scientist, Safety ML
+  Company:     Amazon.com
+  Location:    San Francisco, CA, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=9351d6b3ccd6b96f
+  Posted:      2026-01-16
+
+--- Job #50 ---
+  Title:       Backend Engineer - Data Management Services
+  Company:     Loft Orbital Solutions
+  Location:    Golden, CO, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=f51af87bb5cd93f3
+  Posted:      2026-02-26
+
+--- Job #51 ---
+  Title:       Cloud Architect (Azure)
+  Company:     Rackspace Technology
+  Location:    Remote, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=0a12850ab60d7e56
+  Posted:      2026-02-26
+
+--- Job #52 ---
+  Title:       Sr. Staff AI/ML Development Engineer
+  Company:     AMD
+  Location:    Bellevue, WA, US
+  Source:      indeed
+  Match Score: 4
+  URL:         https://www.indeed.com/viewjob?jk=c07b19912507bc0b
+  Posted:      2026-01-13
+
+--- Job #53 ---
+  Title:       Applied AI Scientist - Multimodal Intelligence
+  Company:     Apple
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=28e2aa6bade688d5
+  Posted:      2026-02-26
+
+--- Job #54 ---
+  Title:       Applied Scientist II, Prime Video - Personalization and Discovery Science
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=2d894bc07b85aa6c
+  Posted:      2025-08-13
+
+--- Job #55 ---
+  Title:       Applied Scientist II, Prime Video - Personalization and Discovery Science
+  Company:     Amazon.com
+  Location:    New York, NY, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=1e8fbf55560c8779
+  Posted:      2025-08-13
+
+--- Job #56 ---
+  Title:       Software Engineer, Continuous Integration
+  Company:     Apple
+  Location:    San Diego, CA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=00c45c9946d57206
+  Posted:      2026-02-26
+
+--- Job #57 ---
+  Title:       Applied Scientist II, Prime Video - Personalization and Discovery Science
+  Company:     Amazon.com
+  Location:    Sunnyvale, CA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=96540fa62bda900a
+  Posted:      2025-08-13
+
+--- Job #58 ---
+  Title:       Applied Scientist II, Prime Video - Personalization and Discovery Science, Personalization and Discovery Science
+  Company:     Amazon.com
+  Location:    New York, NY, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=69535afa9d8fa8a6
+  Posted:      2025-10-01
+
+--- Job #59 ---
+  Title:       Applied Scientist II, Prime Video - Personalization and Discovery Science, Personalization and Discovery Science
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=d175651affeb2e7a
+  Posted:      2025-10-01
+
+--- Job #60 ---
+  Title:       Sr. Staff Engineer, AI Models and Applications
+  Company:     AMD
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=683e1ce83e168dd9
+  Posted:      2025-10-29
+
+--- Job #61 ---
+  Title:       AI Full Stack Engineer (Agentic Systems) - Remote Opportunity
+  Company:     PeopleTek
+  Location:    Remote, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=85bfe0b091d696e7
+  Posted:      2026-02-26
+
+--- Job #62 ---
+  Title:       Senior Applied Research Scientist
+  Company:     AMD
+  Location:    Bellevue, WA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=44680589c071f175
+  Posted:      2026-01-29
+
+--- Job #63 ---
+  Title:       Computer Scientist / Privacy / OPSEC
+  Company:     Systems Planning and Analysis, Inc. (SPA)
+  Location:    Arlington, VA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=d10d5015450b4fb2
+  Posted:      2026-01-16
+
+--- Job #64 ---
+  Title:       Artificial Intelligence Practice Lead
+  Company:     PharmaACE LLC
+  Location:    Princeton, NJ, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=a074a46dd2c8a964
+  Posted:      2025-09-15
+
+--- Job #65 ---
+  Title:       Senior Fellow, ML Optimization
+  Company:     AMD
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=f84e7169b77401fb
+  Posted:      2026-01-12
+
+--- Job #66 ---
+  Title:       SMTS Process Engineer
+  Company:     AMD
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=225c7feda285bdd1
+  Posted:      2026-02-20
+
+--- Job #67 ---
+  Title:       Technical Project Manager — Data Assets & AI
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 3
+  URL:         https://www.indeed.com/viewjob?jk=6708688d0a3240e2
+  Posted:      2026-02-15
+
+--- Job #68 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    St. Louis, MO, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=a01efbbe93074a9a
+  Posted:      2026-02-26
+
+--- Job #69 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Des Moines, IA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=6a2c07d41e47b7b4
+  Posted:      2026-02-26
+
+--- Job #70 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Denver, CO, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=462420ed6e05c158
+  Posted:      2026-02-26
+
+--- Job #71 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Arlington, VA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=133fa3b2118031cd
+  Posted:      2026-02-26
+
+--- Job #72 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    New York, NY, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=e6cf636557c9fe8b
+  Posted:      2026-02-26
+
+--- Job #73 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Detroit, MI, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=00de6eec304fa4a0
+  Posted:      2026-02-26
+
+--- Job #74 ---
+  Title:       Sr Design Engineer
+  Company:     Paramount
+  Location:    New York, NY, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=34a9dab28595f0b3
+  Posted:      2026-02-26
+
+--- Job #75 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Sacramento, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=d411ec815151cc68
+  Posted:      2026-02-26
+
+--- Job #76 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Philadelphia, PA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=512228f5ad1cd7ab
+  Posted:      2026-02-26
+
+--- Job #77 ---
+  Title:       (USA) Senior, Software Engineer
+  Company:     Walmart
+  Location:    Bentonville, AR, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=a1528e75a1485e16
+  Posted:      2026-02-26
+
+--- Job #78 ---
+  Title:       GPU KERNEL OPTIMIZATION ENGINEER
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=4d2118314f9c2c9a
+  Posted:      2026-02-12
+
+--- Job #79 ---
+  Title:       Biology/Computational Biology - Summer Research Program
+  Company:     Novavax
+  Location:    MD, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=4f7e2a2a094d19a8
+  Posted:      2026-02-26
+
+--- Job #80 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=fe1c293060dede5a
+  Posted:      2026-02-26
+
+--- Job #81 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Albany, NY, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=d73b790a513bbfe4
+  Posted:      2026-02-26
+
+--- Job #82 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Irvine, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=e1d9d500a2a048ad
+  Posted:      2026-02-26
+
+--- Job #83 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=7d7a58f859010f78
+  Posted:      2026-02-26
+
+--- Job #84 ---
+  Title:       Data Scientist I, FIS University Program
+  Company:     FIS
+  Location:    Atlanta, GA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=c6f3ae20a5dc5259
+  Posted:      2026-02-26
+
+--- Job #85 ---
+  Title:       Pre-Si Power and Performance System Validation Engineer
+  Company:     Intel Corporation
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=6121174f7cc0e081
+  Posted:      2026-02-26
+
+--- Job #86 ---
+  Title:       Module Development Engineer
+  Company:     Intel Corporation
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=91a7bf16addd196e
+  Posted:      2026-02-26
+
+--- Job #87 ---
+  Title:       SR Hardware System Engineer
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=11ebc826343db64d
+  Posted:      2025-10-27
+
+--- Job #88 ---
+  Title:       FPGA HW/SW Codesign Engineer
+  Company:     AMD
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=5da1658fa83eae69
+  Posted:      2026-01-05
+
+--- Job #89 ---
+  Title:       Principal AI/ML SW/HW Co-Design Lead
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=4766413493c1a1d2
+  Posted:      2026-01-20
+
+--- Job #90 ---
+  Title:       Staff Signal Integrity Engineer
+  Company:     AMD
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=746dfa320d345352
+  Posted:      2026-01-21
+
+--- Job #91 ---
+  Title:       Principal AI/ML Models and Emu/Simulation Lead
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=6c2323034730834f
+  Posted:      2026-02-13
+
+--- Job #92 ---
+  Title:       Technical Program Manager – ROCm Libraries
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=71a91539c116a965
+  Posted:      2026-02-18
+
+--- Job #93 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Scottsdale, AZ, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=c730ec574581fda0
+  Posted:      2026-02-26
+
+--- Job #94 ---
+  Title:       Product Support Technician
+  Company:     SignalQuest, LLC
+  Location:    Lebanon, NH, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=494d2875d16eec20
+  Posted:      2026-02-26
+
+--- Job #95 ---
+  Title:       Software Development Engineer
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=e6b618cebdd8e672
+  Posted:      2026-02-20
+
+--- Job #96 ---
+  Title:       ASIC/SoC Design Engineer
+  Company:     AMD
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=341593cc373d5864
+  Posted:      2026-02-20
+
+--- Job #97 ---
+  Title:       Director, Applied Science, Stores Economics and Science
+  Company:     Amazon.com
+  Location:    Mountain View, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=09f7c599d4f8028b
+  Posted:      2025-09-12
+
+--- Job #98 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Minneapolis, MN, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=4d05698bb741ccb5
+  Posted:      2026-02-26
+
+--- Job #99 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Columbus, OH, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=de45e4ea16d9e15e
+  Posted:      2026-02-26
+
+--- Job #100 ---
+  Title:       AI and Data Mid-Market Sales Engineer Senior Manager
+  Company:     Accenture
+  Location:    Nashville, TN, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=479d4b626fbf8dba
+  Posted:      2026-02-26
+
+--- Job #101 ---
+  Title:       Siri NL Platform Software Engineer, Siri Core Modeling
+  Company:     Apple
+  Location:    Cupertino, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=aaf61e30970b2f68
+  Posted:      2026-02-26
+
+--- Job #102 ---
+  Title:       Siri NL Platform Software Engineer, Siri Core Modeling
+  Company:     Apple
+  Location:    Cupertino, CA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=581877860233e146
+  Posted:      2026-02-26
+
+--- Job #103 ---
+  Title:       Director, Applied Science, Stores Economics and Science
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 2
+  URL:         https://www.indeed.com/viewjob?jk=29abeb424851986d
+  Posted:      2025-09-12
+
+--- Job #104 ---
+  Title:       Senior Director, Applied Artificial Intelligence
+  Company:     Systems Planning and Analysis, Inc. (SPA)
+  Location:    Alexandria, VA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=3e68d0ae42252088
+  Posted:      2026-01-05
+
+--- Job #105 ---
+  Title:       Physical Design Engineer
+  Company:     Intel Corporation
+  Location:    Remote, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=f01dc73f85a8aae9
+  Posted:      2026-02-26
+
+--- Job #106 ---
+  Title:       Senior Director, Marketing Technology Marketing Technology (MarTech)
+  Company:     ServiceNow
+  Location:    San Francisco, CA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=916f472791abdcfb
+  Posted:      2026-02-26
+
+--- Job #107 ---
+  Title:       Software Development Engineer - C++, GPU Math Libraries
+  Company:     AMD
+  Location:    Austin, TX, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=d9082f995c347caa
+  Posted:      2026-01-20
+
+--- Job #108 ---
+  Title:       Software Development Engineer, Frontier AI & Robotics
+  Company:     Amazon.com
+  Location:    San Francisco, CA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=c41040bcadb2d877
+  Posted:      2025-02-28
+
+--- Job #109 ---
+  Title:       SAP AI Business Services Consultant
+  Company:     Openkyber
+  Location:    AK, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=d27413945263dff8
+  Posted:      2026-02-26
+
+--- Job #110 ---
+  Title:       DevSecOps Technical SETA
+  Company:     Systems Planning and Analysis, Inc. (SPA)
+  Location:    Arlington, VA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=3ac88252b97244fc
+  Posted:      2024-06-25
+
+--- Job #111 ---
+  Title:       Software Development Engineer, Frontier AI & Robotics
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=5882f6f1722a588a
+  Posted:      2025-02-28
+
+--- Job #112 ---
+  Title:       GPU Next-Gen Architecture Modeling Engineer
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=8fb4d0d546593d7f
+  Posted:      2026-01-15
+
+--- Job #113 ---
+  Title:       COMPILER ENGINEER - DEBUG INFO, TOOLS
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=81f3fd4ff04c4fd8
+  Posted:      2026-02-24
+
+--- Job #114 ---
+  Title:       Product Security Engineer
+  Company:     Adobe
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=50e1a693b99ea9f8
+  Posted:      2026-02-26
+
+--- Job #115 ---
+  Title:       Associate technical product manager-AI Networking Infrastructure
+  Company:     AMD
+  Location:    Santa Clara, CA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=1cf0767bd46818ea
+  Posted:      2026-02-18
+
+--- Job #116 ---
+  Title:       Principal Applied Scientist, Measurement, AdTech and Data Science, Ads Performance Measurement
+  Company:     Amazon.com
+  Location:    Seattle, WA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=9b90ca7007d356b3
+  Posted:      2026-01-16
+
+--- Job #117 ---
+  Title:       Principal Applied Scientist, Measurement, AdTech and Data Science, Ads Performance Measurement
+  Company:     Amazon.com
+  Location:    Palo Alto, CA, US
+  Source:      indeed
+  Match Score: 1
+  URL:         https://www.indeed.com/viewjob?jk=2ab7fdfcd5ab50cf
+  Posted:      2026-01-16
+
+--- Job #118 ---
+  Title:       Planner/Analyst- Engineer II
+  Company:     Enterris Associates
+  Location:    Los Angeles, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378051026
+  Posted:      nan
+
+--- Job #119 ---
+  Title:       Engineer - Renewable Energy & Energy Storage
+  Company:     Intertek
+  Location:    Cortland, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4325379073
+  Posted:      nan
+
+--- Job #120 ---
+  Title:       Sr. CV/ML Engineer
+  Company:     Dexian
+  Location:    Cranston, RI
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375273014
+  Posted:      nan
+
+--- Job #121 ---
+  Title:       Sr. Software Engineer - AI & Machine Learning
+  Company:     UHS
+  Location:    King of Prussia, PA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378383730
+  Posted:      nan
+
+--- Job #122 ---
+  Title:       Lead Machine Learning Engineer
+  Company:     The Walt Disney Company
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377227673
+  Posted:      nan
+
+--- Job #123 ---
+  Title:       Senior Machine Learning Engineer
+  Company:     Freenome
+  Location:    Brisbane, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4317524889
+  Posted:      nan
+
+--- Job #124 ---
+  Title:       Senior Deep Learning Software Engineer, Inference and Model Optimization
+  Company:     NVIDIA
+  Location:    Santa Clara, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378087002
+  Posted:      nan
+
+--- Job #125 ---
+  Title:       Director of Engineering – Machine Learning & AI Products
+  Company:     Adobe
+  Location:    San Jose, CA, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=8ca7bad71ea2527e
+  Posted:      2026-02-26
+
+--- Job #126 ---
+  Title:       Principal Machine Learning Engineer
+  Company:     The Walt Disney Company
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377224814
+  Posted:      nan
+
+--- Job #127 ---
+  Title:       Engineering Design Electrical Engineer
+  Company:     Meta
+  Location:    Menlo Park, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4353056455
+  Posted:      nan
+
+--- Job #128 ---
+  Title:       Clinical Engineer
+  Company:     Anima
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4089482294
+  Posted:      nan
+
+--- Job #129 ---
+  Title:       Distinguished AI/ML Engineering Lead
+  Company:     FTI Defense - Frontier Technology Inc.
+  Location:    Colorado Springs, CO
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4345484436
+  Posted:      nan
+
+--- Job #130 ---
+  Title:       Distinguished AI/ML Engineering Lead
+  Company:     FTI Defense - Frontier Technology Inc.
+  Location:    Tampa, FL
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4345474403
+  Posted:      nan
+
+--- Job #131 ---
+  Title:       Distinguished AI/ML Engineering Lead
+  Company:     FTI Defense - Frontier Technology Inc.
+  Location:    Dallas, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4345224782
+  Posted:      nan
+
+--- Job #132 ---
+  Title:       Sr. Staff Software Engineer, AI Infra
+  Company:     LinkedIn
+  Location:    Mountain View, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4361679279
+  Posted:      nan
+
+--- Job #133 ---
+  Title:       Deep Learning Compiler Engineer
+  Company:     Quadric
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377899816
+  Posted:      nan
+
+--- Job #134 ---
+  Title:       Weapons Engineering R&D Engineer 1/2
+  Company:     Los Alamos National Laboratory
+  Location:    Los Alamos, NM
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4346221701
+  Posted:      nan
+
+--- Job #135 ---
+  Title:       Aerospace/Aeronautical Engineering - Recent Grad/Full Time (US Person)
+  Company:     Lensa
+  Location:    Charlotte, NC
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378078065
+  Posted:      nan
+
+--- Job #136 ---
+  Title:       Entry Level Engineer
+  Company:     Lensa
+  Location:    Dallas, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378081105
+  Posted:      nan
+
+--- Job #137 ---
+  Title:       Associate Engineer
+  Company:     Walker Elliott
+  Location:    Houston, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377273536
+  Posted:      nan
+
+--- Job #138 ---
+  Title:       Bletchley Fellowship | Software Engineering, AI & Data — Entry Level
+  Company:     Flatiron School
+  Location:    Remote, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=11d5ec1990604e69
+  Posted:      2026-02-26
+
+--- Job #139 ---
+  Title:       Engineer
+  Company:     Spencer Ogden
+  Location:    Wilmington, NC
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378016424
+  Posted:      nan
+
+--- Job #140 ---
+  Title:       Quantitative Researcher - Early Career (USA)
+  Company:     Lensa
+  Location:    Stamford, CT
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378074183
+  Posted:      nan
+
+--- Job #141 ---
+  Title:       Senior Scientist I - Computational Biologist
+  Company:     Lensa
+  Location:    Rockville, MD
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378064390
+  Posted:      nan
+
+--- Job #142 ---
+  Title:       Quantitative Researcher - Early Career (USA)
+  Company:     Lensa
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378060985
+  Posted:      nan
+
+--- Job #143 ---
+  Title:       Senior Computational Chemist
+  Company:     Lensa
+  Location:    Mesa, AZ
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378058959
+  Posted:      nan
+
+--- Job #144 ---
+  Title:       Research Scientist, Sourcing
+  Company:     Google
+  Location:    Austin, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4368990922
+  Posted:      nan
+
+--- Job #145 ---
+  Title:       Research Scientist, Sourcing
+  Company:     Google
+  Location:    Chicago, IL
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4368993307
+  Posted:      nan
+
+--- Job #146 ---
+  Title:       RESEARCH SCIENTIST MANAGER JC-509549
+  Company:     California Department of Public Health
+  Location:    Richmond, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376910889
+  Posted:      nan
+
+--- Job #147 ---
+  Title:       Research Scientist, Sourcing
+  Company:     Google
+  Location:    Boulder, CO
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4368993306
+  Posted:      nan
+
+--- Job #148 ---
+  Title:       Senior Computational Chemist
+  Company:     Lensa
+  Location:    Indianapolis, IN
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378080121
+  Posted:      nan
+
+--- Job #149 ---
+  Title:       AI Security Engineer
+  Company:     Verizon
+  Location:    Irving, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4328657518
+  Posted:      nan
+
+--- Job #150 ---
+  Title:       EDGE Engineering Rotational Program
+  Company:     Lightera
+  Location:    Norcross, GA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378031625
+  Posted:      nan
+
+--- Job #151 ---
+  Title:       AI Security Engineer
+  Company:     Verizon
+  Location:    Basking Ridge, NJ
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4328607729
+  Posted:      nan
+
+--- Job #152 ---
+  Title:       AI Security Engineer
+  Company:     Verizon
+  Location:    Cary, NC
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4328647642
+  Posted:      nan
+
+--- Job #153 ---
+  Title:       AI Security Engineer
+  Company:     Verizon
+  Location:    Ashburn, VA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4328637621
+  Posted:      nan
+
+--- Job #154 ---
+  Title:       AI Security Engineer
+  Company:     Verizon
+  Location:    Temple Terrace, FL
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4328680651
+  Posted:      nan
+
+--- Job #155 ---
+  Title:       AI Security Engineer
+  Company:     Verizon
+  Location:    Alpharetta, GA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4328677787
+  Posted:      nan
+
+--- Job #156 ---
+  Title:       AI Analytics and Visualization Engineer
+  Company:     NVIDIA
+  Location:    Arizona, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378067993
+  Posted:      nan
+
+--- Job #157 ---
+  Title:       AI Analytics and Visualization Engineer
+  Company:     NVIDIA
+  Location:    California, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378068874
+  Posted:      nan
+
+--- Job #158 ---
+  Title:       AI Analytics and Visualization Engineer
+  Company:     NVIDIA
+  Location:    Oregon, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378082601
+  Posted:      nan
+
+--- Job #159 ---
+  Title:       Research Scientist, Sourcing
+  Company:     Google
+  Location:    Los Angeles, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369100130
+  Posted:      nan
+
+--- Job #160 ---
+  Title:       Senior Scientist, Process Chemistry
+  Company:     Lensa
+  Location:    Cambridge, MA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378077097
+  Posted:      nan
+
+--- Job #161 ---
+  Title:       Research Scientist (Deepfake Video)
+  Company:     Pindrop
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4354709261
+  Posted:      nan
+
+--- Job #162 ---
+  Title:       Analytical & Research Scientist
+  Company:     Finlays Solutions
+  Location:    North Kingstown, RI
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4355769602
+  Posted:      nan
+
+--- Job #163 ---
+  Title:       Turbine Engineer – Aerodynamic Turbine Designer
+  Company:     Siemens Energy
+  Location:    Orlando, FL
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4355193991
+  Posted:      nan
+
+--- Job #164 ---
+  Title:       Track Engineer
+  Company:     Network Rail Consulting
+  Location:    New Jersey, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4364434467
+  Posted:      nan
+
+--- Job #165 ---
+  Title:       Animal Technician - Outdoor Colony (ANML TCHN)
+  Company:     UC Davis
+  Location:    Davis, CA, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=081cf8c59abf121f
+  Posted:      2026-02-25
+
+--- Job #166 ---
+  Title:       DevSecOps Technical SETA
+  Company:     Systems Planning and Analysis, Inc. (SPA)
+  Location:    Arlington, VA, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=54c9efa951520a83
+  Posted:      2026-02-10
+
+--- Job #167 ---
+  Title:       Senior Scientist
+  Company:     American Water
+  Location:    Belleville, IL
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4343742880
+  Posted:      nan
+
+--- Job #168 ---
+  Title:       Research Medical Laboratory Scientist
+  Company:     CHEManager International
+  Location:    Houston, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377271435
+  Posted:      nan
+
+--- Job #169 ---
+  Title:       Applied Scientist
+  Company:     Zillow
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377897995
+  Posted:      nan
+
+--- Job #170 ---
+  Title:       Research Scientist - Stem Cell Transplantation Research
+  Company:     Lensa
+  Location:    Houston, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378066358
+  Posted:      nan
+
+--- Job #171 ---
+  Title:       Research & Development Scientist I/II
+  Company:     CHEManager International
+  Location:    Twin Falls, ID
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377280162
+  Posted:      nan
+
+--- Job #172 ---
+  Title:       Research Scientist
+  Company:     CHEManager International
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377280168
+  Posted:      nan
+
+--- Job #173 ---
+  Title:       Applied AI/Bio Scientist
+  Company:     Nabla Bio
+  Location:    Boston, MA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375530121
+  Posted:      nan
+
+--- Job #174 ---
+  Title:       Research Scientist
+  Company:     The University of Texas at Austin
+  Location:    Austin, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378084049
+  Posted:      nan
+
+--- Job #175 ---
+  Title:       Research Engineering/ Scientist Assistant
+  Company:     The University of Texas at Austin
+  Location:    Austin, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378083085
+  Posted:      nan
+
+--- Job #176 ---
+  Title:       Applied Scientist, Worldwide Returns & Recommerce - Science
+  Company:     Amazon
+  Location:    Bellevue, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369419883
+  Posted:      nan
+
+--- Job #177 ---
+  Title:       Machine Learning Engineer
+  Company:     Workday
+  Location:    Boulder, CO
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375515843
+  Posted:      nan
+
+--- Job #178 ---
+  Title:       Research Scientist
+  Company:     CooperVision
+  Location:    San Ramon, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369423707
+  Posted:      nan
+
+--- Job #179 ---
+  Title:       Artificial Intelligence Researcher
+  Company:     Stealth Startup
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375277119
+  Posted:      nan
+
+--- Job #180 ---
+  Title:       Senior Software Engineer, AI Platform
+  Company:     LinkedIn
+  Location:    Mountain View, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4361511497
+  Posted:      nan
+
+--- Job #181 ---
+  Title:       Staff AI & Data Platform Engineer
+  Company:     Quizlet
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4340010686
+  Posted:      nan
+
+--- Job #182 ---
+  Title:       Technical Fellow, Civil Structural
+  Company:     X-Energy
+  Location:    Rockville, MD, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=214c30f99eecdec6
+  Posted:      2026-02-26
+
+--- Job #183 ---
+  Title:       Junior Data Scientist
+  Company:     New York City Police Department
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378348569
+  Posted:      nan
+
+--- Job #184 ---
+  Title:       Machine Learning Scientist (L4) - Content & Conversation Modeling
+  Company:     Netflix
+  Location:    Seattle, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4348054763
+  Posted:      nan
+
+--- Job #185 ---
+  Title:       Software Engineer III
+  Company:     Chewy
+  Location:    Bellevue, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4361265262
+  Posted:      nan
+
+--- Job #186 ---
+  Title:       Data Scientist, Product Analytics
+  Company:     Etsy
+  Location:    Brooklyn, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378068457
+  Posted:      nan
+
+--- Job #187 ---
+  Title:       Data Scientist, Support
+  Company:     OpenAI
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4313812386
+  Posted:      nan
+
+--- Job #188 ---
+  Title:       Data Scientist - Fraud
+  Company:     Plaid
+  Location:    Seattle, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376968419
+  Posted:      nan
+
+--- Job #189 ---
+  Title:       Data Scientist, Ads
+  Company:     Reddit, Inc.
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4316609147
+  Posted:      nan
+
+--- Job #190 ---
+  Title:       Data Scientist
+  Company:     Cobalt
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376920273
+  Posted:      nan
+
+--- Job #191 ---
+  Title:       Data Scientist, Algorithms, ML - Fulfillment
+  Company:     Lyft
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369294694
+  Posted:      nan
+
+--- Job #192 ---
+  Title:       ML Specialist
+  Company:     The Value Maximizer
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378386213
+  Posted:      nan
+
+--- Job #193 ---
+  Title:       Data Scientist
+  Company:     Cobalt
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376022030
+  Posted:      nan
+
+--- Job #194 ---
+  Title:       ML Specialist
+  Company:     The Value Maximizer
+  Location:    New Jersey, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378391109
+  Posted:      nan
+
+--- Job #195 ---
+  Title:       Software Engineer - SyncSketch
+  Company:     Unity
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4359676990
+  Posted:      nan
+
+--- Job #196 ---
+  Title:       Product Data Scientist, Payments
+  Company:     Uber
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378089303
+  Posted:      nan
+
+--- Job #197 ---
+  Title:       Data Scientist, Algorithms, ML - Fulfillment
+  Company:     Lyft
+  Location:    Seattle, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369298609
+  Posted:      nan
+
+--- Job #198 ---
+  Title:       Senior  Data Scientist, Analytics - Core Product
+  Company:     Quizlet
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4213103704
+  Posted:      nan
+
+--- Job #199 ---
+  Title:       Machine Learning Ops Engineer
+  Company:     Elsevier
+  Location:    Philadelphia, PA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377270133
+  Posted:      nan
+
+--- Job #200 ---
+  Title:       MLOps Engineer
+  Company:     KOS AI
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376901523
+  Posted:      nan
+
+--- Job #201 ---
+  Title:       UGC Engineer
+  Company:     Quizlet
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4353005853
+  Posted:      nan
+
+--- Job #202 ---
+  Title:       Engineering Director- Machine Learning, Core AI
+  Company:     LinkedIn
+  Location:    Mountain View, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4361292749
+  Posted:      nan
+
+--- Job #203 ---
+  Title:       Adraxe: Neural Engineer
+  Company:     Blackrock Neurotech
+  Location:    Plymouth, MN
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376999216
+  Posted:      nan
+
+--- Job #204 ---
+  Title:       Quantitative Developer/ Engineer
+  Company:     Selby Jennings
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378040235
+  Posted:      nan
+
+--- Job #205 ---
+  Title:       Lead Machine Learning Engineer
+  Company:     ASAPP
+  Location:    New York, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369414870
+  Posted:      nan
+
+--- Job #206 ---
+  Title:       Junior Data Scientist & AI
+  Company:     Joinrs
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376571048
+  Posted:      nan
+
+--- Job #207 ---
+  Title:       Engineering Manager, Ads Quality
+  Company:     DoorDash
+  Location:    San Francisco, CA, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=0b9ba3cd5ca07111
+  Posted:      2026-02-26
+
+--- Job #208 ---
+  Title:       Founding Engineer
+  Company:     Las Casas Holdings
+  Location:    California, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376904268
+  Posted:      nan
+
+--- Job #209 ---
+  Title:       Machine Learning Engineer
+  Company:     MORSE Corp
+  Location:    Seattle, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4368942790
+  Posted:      nan
+
+--- Job #210 ---
+  Title:       ENVIRONMENTAL SCIENTIST
+  Company:     California State Personnel Board
+  Location:    CA, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=07633f114a755386
+  Posted:      2026-02-26
+
+--- Job #211 ---
+  Title:       ENGINEERING GEOLOGIST
+  Company:     California State Personnel Board
+  Location:    CA, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=29be4e35660e61a4
+  Posted:      2026-02-26
+
+--- Job #212 ---
+  Title:       Clinical Research Coordinator
+  Company:     George Mason University
+  Location:    Fairfax, VA, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=5f2cce1432eefada
+  Posted:      2026-02-26
+
+--- Job #213 ---
+  Title:       Robotic Lab Technician
+  Company:     EPAM Systems
+  Location:    Mountain View, CA, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=8c0319259325ee6f
+  Posted:      2026-02-26
+
+--- Job #214 ---
+  Title:       Robotics Test Engineer - Onsite
+  Company:     EPAM Systems
+  Location:    Detroit, MI, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=1adba294d7dffede
+  Posted:      2026-02-26
+
+--- Job #215 ---
+  Title:       External Technology Integration Engineer
+  Company:     Intel Corporation
+  Location:    Phoenix, AZ, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=cc32ec6cbe8cf6cc
+  Posted:      2026-02-26
+
+--- Job #216 ---
+  Title:       Machine Learning Engineer
+  Company:     ExxonMobil
+  Location:    Spring, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378037146
+  Posted:      nan
+
+--- Job #217 ---
+  Title:       Machine Learning  Engineer
+  Company:     Colgate-Palmolive
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376942359
+  Posted:      nan
+
+--- Job #218 ---
+  Title:       Software Engineer, AI Platform
+  Company:     LinkedIn
+  Location:    Mountain View, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4361551460
+  Posted:      nan
+
+--- Job #219 ---
+  Title:       Early Career AI/ML Engineer
+  Company:     Brain Co.
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4362406858
+  Posted:      nan
+
+--- Job #220 ---
+  Title:       AI Developer
+  Company:     The Value Maximizer
+  Location:    Austin, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378036788
+  Posted:      nan
+
+--- Job #221 ---
+  Title:       Intern - SLS Support
+  Company:     Amentum
+  Location:    Huntsville, AL, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=36f7408f8216d804
+  Posted:      2026-02-26
+
+--- Job #222 ---
+  Title:       Machine Learning Engineer
+  Company:     Coinflow
+  Location:    Chicago, IL
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378017182
+  Posted:      nan
+
+--- Job #223 ---
+  Title:       AI Developer
+  Company:     The Value Maximizer
+  Location:    Washington, DC
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378049039
+  Posted:      nan
+
+--- Job #224 ---
+  Title:       Machine Learning Engineer
+  Company:     Joyful Health
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378020165
+  Posted:      nan
+
+--- Job #225 ---
+  Title:       Software Development Engineer
+  Company:     Amazon Web Services (AWS)
+  Location:    Cupertino, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4345225752
+  Posted:      nan
+
+--- Job #226 ---
+  Title:       Software Development Engineer
+  Company:     Amazon Web Services (AWS)
+  Location:    Arlington, VA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4345560761
+  Posted:      nan
+
+--- Job #227 ---
+  Title:       Software Development Engineer
+  Company:     Amazon Web Services (AWS)
+  Location:    New York, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4345165722
+  Posted:      nan
+
+--- Job #228 ---
+  Title:       Machine Learning Engineer
+  Company:     MORSE Corp
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4358818492
+  Posted:      nan
+
+--- Job #229 ---
+  Title:       Software Development Engineer
+  Company:     Amazon Web Services (AWS)
+  Location:    Seattle, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4345165721
+  Posted:      nan
+
+--- Job #230 ---
+  Title:       Machine Learning Engineer
+  Company:     Apple
+  Location:    San Diego, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376950755
+  Posted:      nan
+
+--- Job #231 ---
+  Title:       Senior Cyber Security Engineer
+  Company:     AeroVironment
+  Location:    AL, US
+  Source:      indeed
+  Match Score: 0
+  URL:         https://www.indeed.com/viewjob?jk=f7b3a09dd6f3e492
+  Posted:      2026-02-26
+
+--- Job #232 ---
+  Title:       Engineer 2 - AI Enablement (Hybrid - Seattle, WA)
+  Company:     Nordstrom
+  Location:    Seattle, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369426238
+  Posted:      nan
+
+--- Job #233 ---
+  Title:       Combustion Engineer / Scientist
+  Company:     ERG
+  Location:    Triangle, NC
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4368778641
+  Posted:      nan
+
+--- Job #234 ---
+  Title:       AI/ML Solution Engineer
+  Company:     Snowflake
+  Location:    New York, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4362336612
+  Posted:      nan
+
+--- Job #235 ---
+  Title:       Data Scientist
+  Company:     Moseley Technical Services, Inc.
+  Location:    Huntsville, AL
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375549295
+  Posted:      nan
+
+--- Job #236 ---
+  Title:       MLOps Platform Engineer :: C2C and W2 :: Independent candidate
+  Company:     Jobs via Dice
+  Location:    Reston, VA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376797046
+  Posted:      nan
+
+--- Job #237 ---
+  Title:       Lead Machine Learning Engineer-MLOps
+  Company:     JPMorganChase
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4361321850
+  Posted:      nan
+
+--- Job #238 ---
+  Title:       Data Scientist
+  Company:     Luma AI
+  Location:    Palo Alto, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378338887
+  Posted:      nan
+
+--- Job #239 ---
+  Title:       Data Scientist - AI / Python Developer
+  Company:     Fiserv
+  Location:    Columbus, OH
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376901293
+  Posted:      nan
+
+--- Job #240 ---
+  Title:       Data Scientist (REMOTE)
+  Company:     Lensa
+  Location:    Austin, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378063397
+  Posted:      nan
+
+--- Job #241 ---
+  Title:       Data Scientist (REMOTE)
+  Company:     Lensa
+  Location:    Dallas, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378077121
+  Posted:      nan
+
+--- Job #242 ---
+  Title:       Data Scientist, Data Science
+  Company:     LaunchDarkly
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369299403
+  Posted:      nan
+
+--- Job #243 ---
+  Title:       Product Data Scientist, Payments
+  Company:     Uber
+  Location:    Sunnyvale, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378091315
+  Posted:      nan
+
+--- Job #244 ---
+  Title:       AI Research Scientist – GenAI
+  Company:     Bosch USA
+  Location:    Sunnyvale, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375278466
+  Posted:      nan
+
+--- Job #245 ---
+  Title:       Data Scientist
+  Company:     SyDSA
+  Location:    Texas, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375275342
+  Posted:      nan
+
+--- Job #246 ---
+  Title:       Data Scientist
+  Company:     hackajob
+  Location:    Alpharetta, GA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378038104
+  Posted:      nan
+
+--- Job #247 ---
+  Title:       Sr. ML Ops Engineer, tvScientific
+  Company:     Pinterest
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378075392
+  Posted:      nan
+
+--- Job #248 ---
+  Title:       Senior Machine Learning Engineer
+  Company:     Franklin Fitch
+  Location:    Austin, Texas Metropolitan Area
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4366244086
+  Posted:      2026-02-25
+
+--- Job #249 ---
+  Title:       Junior AI/ML Engineer (Remote)
+  Company:     Lensa
+  Location:    Boston, MA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378082039
+  Posted:      nan
+
+--- Job #250 ---
+  Title:       Senior AI/ML Engineer
+  Company:     Node.Digital LLC
+  Location:    Herndon, VA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378396054
+  Posted:      nan
+
+--- Job #251 ---
+  Title:       AI/ML Engineer
+  Company:     Auriic Services
+  Location:    Austin, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375554457
+  Posted:      nan
+
+--- Job #252 ---
+  Title:       AIML - Machine Learning Engineer, Data and ML Innovation
+  Company:     Apple
+  Location:    Cupertino, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376953637
+  Posted:      nan
+
+--- Job #253 ---
+  Title:       AIML - Machine Learning Engineer, Data and ML Innovation
+  Company:     Apple
+  Location:    Seattle, WA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376952625
+  Posted:      nan
+
+--- Job #254 ---
+  Title:       AI/ML Engineer I
+  Company:     Quzara LLC
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375290072
+  Posted:      nan
+
+--- Job #255 ---
+  Title:       Senior AI/ML Engineer
+  Company:     Recruits Lab
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4375559086
+  Posted:      nan
+
+--- Job #256 ---
+  Title:       AI/ML Engineer / Defence / $500k+ / NYC
+  Company:     Open Talent
+  Location:    New York, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4373435916
+  Posted:      nan
+
+--- Job #257 ---
+  Title:       Lead AI/ML Engineer
+  Company:     Suniksha Technologies LLC
+  Location:    Dallas, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376912803
+  Posted:      nan
+
+--- Job #258 ---
+  Title:       Sr. Data Engineer I
+  Company:     iHerb
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4362324877
+  Posted:      nan
+
+--- Job #259 ---
+  Title:       Sr. ML Ops Engineer, tvScientific
+  Company:     Pinterest
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378062584
+  Posted:      nan
+
+--- Job #260 ---
+  Title:       Engineer
+  Company:     Chesapeake Contracting Group
+  Location:    Baltimore, MD
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377213456
+  Posted:      nan
+
+--- Job #261 ---
+  Title:       Solution Engineer
+  Company:     C3 AI
+  Location:    Redwood City, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4067155397
+  Posted:      nan
+
+--- Job #262 ---
+  Title:       GTM Engineer
+  Company:     PandaDoc
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4369211319
+  Posted:      nan
+
+--- Job #263 ---
+  Title:       MLOps Engineer
+  Company:     Tata Consultancy Services
+  Location:    Hartford, CT
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376975577
+  Posted:      nan
+
+--- Job #264 ---
+  Title:       Engineer I
+  Company:     Acuren
+  Location:    West Boylston, MA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4353031508
+  Posted:      nan
+
+--- Job #265 ---
+  Title:       Entry Level Engineer
+  Company:     Lensa
+  Location:    Frisco, TX
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378069300
+  Posted:      nan
+
+--- Job #266 ---
+  Title:       Machine Learning Engineer (Computer Vision/Multimodal/Generative AI)
+  Company:     SPREEAI
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378002082
+  Posted:      2026-02-25
+
+--- Job #267 ---
+  Title:       Generative AI Engineer
+  Company:     BWE
+  Location:    Columbus, Ohio Metropolitan Area
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378013835
+  Posted:      nan
+
+--- Job #268 ---
+  Title:       Gen AI Developer
+  Company:     Cognizant
+  Location:    New York, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378032500
+  Posted:      nan
+
+--- Job #269 ---
+  Title:       Generative AI Engineer
+  Company:     Insight Global
+  Location:    Phoenix, AZ
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377253437
+  Posted:      nan
+
+--- Job #270 ---
+  Title:       Senior Generative AI Engineer
+  Company:     Old Republic Specialty Insurance Group
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376902415
+  Posted:      nan
+
+--- Job #271 ---
+  Title:       AI Operations Engineer
+  Company:     Cisco
+  Location:    San Jose, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4335539403
+  Posted:      nan
+
+--- Job #272 ---
+  Title:       Gen AI Developer
+  Company:     Cognizant
+  Location:    Teaneck, NJ
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376790675
+  Posted:      nan
+
+--- Job #273 ---
+  Title:       Staff MLOps Engineer
+  Company:     Grindr
+  Location:    San Francisco, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4345838900
+  Posted:      nan
+
+--- Job #274 ---
+  Title:       Sr. Software Engineer - Applied AI
+  Company:     GEICO
+  Location:    Palo Alto, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4368961924
+  Posted:      nan
+
+--- Job #275 ---
+  Title:       Generative AI Engineer - Demand Science Portfolio
+  Company:     Conagra Brands
+  Location:    Omaha, NE
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4326268411
+  Posted:      nan
+
+--- Job #276 ---
+  Title:       Senior Engineer - Generative AI
+  Company:     GE Vernova
+  Location:    Niskayuna, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4348289633
+  Posted:      nan
+
+--- Job #277 ---
+  Title:       Lead Engineer - Generative AI & Prompt Engineering
+  Company:     GE Vernova
+  Location:    Niskayuna, NY
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4348503740
+  Posted:      nan
+
+--- Job #278 ---
+  Title:       Research Engineer - Evaluations
+  Company:     Luma AI
+  Location:    Palo Alto, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378351738
+  Posted:      nan
+
+--- Job #279 ---
+  Title:       Staff Generative AI Research Engineer, Multimodal, Agent Modeling - SIML
+  Company:     Apple
+  Location:    Cupertino, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4377213004
+  Posted:      nan
+
+--- Job #280 ---
+  Title:       Senior AI/ML Engineer – Generative AI
+  Company:     Jobs via Dice
+  Location:    
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376931561
+  Posted:      nan
+
+--- Job #281 ---
+  Title:       Senior Google AI Engineer
+  Company:     Credence
+  Location:    McLean, VA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4376325524
+  Posted:      2026-02-25
+
+--- Job #282 ---
+  Title:       Senior DevOps / MLOps Engineer
+  Company:     GenBio AI
+  Location:    Palo Alto, CA
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4354571793
+  Posted:      nan
+
+--- Job #283 ---
+  Title:       AI Platform Engineer
+  Company:     Inceed
+  Location:    Kansas City, MO
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4368905313
+  Posted:      nan
+
+--- Job #284 ---
+  Title:       AI Analytics and Visualization Engineer
+  Company:     NVIDIA
+  Location:    Texas, United States
+  Source:      linkedin
+  Match Score: 0
+  URL:         https://www.linkedin.com/jobs/view/4378079723
+  Posted:      nan
+
